@@ -1,0 +1,19 @@
+{
+  "name": "blog_search_box",
+  "version": "1.0.0",
+  "description": "A simple Search Box",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Madhusudhan9191/Blog-Search-Box"
+  },
+  "keywords": [
+    
+  ],
+  "author": "Madhu Sudhan",
+  "license": "ISC"
+}
